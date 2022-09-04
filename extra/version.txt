@@ -1,0 +1,4 @@
+Yet Another Movie Jukebox
+Build Date: 2011-08-26 23:41:18
+Version: 2.5-SNAPSHOT
+Revision: r2638

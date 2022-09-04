@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	EVERSION Danish prompts
+	
+	********************** NOT UPDATE FRIENDLY  *********************
+	If you want to make changes to any translation file, please make
+	a unique filename for it.  This is the best way to make sure your
+	file is not lost during upgrades.
+	******************************************************************
+	
+	If you translate the skin into your native language, please let us 
+	know so we can include the translation in a future release (and 
+	contact you if we add new prompts before future releases)
+	
+	Edit <translation>en.xml</translation> controls what language file 
+	to use.
+	
+	Changes to this file will not work until you copy it to your Jukebox 
+	folder AND you have added this file as your translation setting in 
+	skinsettings.xml.
+	
+	For help, visit: http://www.dentedboxes.com/doku.php/help:settings
+-->
+
+<translation>
+    <!-- *** System                 -->
+	<starting>Starter</starting>
+	<pleasewait>Vent venligst</pleasewait>
+	<reset>Nulstil</reset>
+	<ignore>Ignorer</ignore>
+	<exit>Afslut</exit>
+	<home>Hjem</home>
+	<about>Om</about>
+	<sapps>Apps</sapps>	
+	<apps>Apps</apps>
+	<okselect>OK</okselect>      <!-- ok prompt on popup messages -->
+	<yupdate>YAMJ JUKEBOX OPDATERING FUNDET</yupdate>
+	<alert>Information</alert>
+	<loading>Indlæser</loading>
+	<eskin>Eskin</eskin>
+	<prepcat>Indlæser kategorier</prepcat>
+	<prepcset>Indlæser brugerdefinerede afspiller indstillinger</prepcset>
+	
+    <!-- *** SDK Player      	-->
+	<skipto>Spring til</skipto>
+	<goto>Gå til</goto>
+	<playlist>Afspilningsliste</playlist>
+	<couldnotplay>Kunne ikke afspille</couldnotplay>
+	<infopanel>Info</infopanel>
+	<dlspeed>Download hastighed</dlspeed>
+	<videoquality>Video kvalitet</videoquality>
+	<connstatus>Opretter forbindelse til medierne...</connstatus>
+	<buffstatus>Indlæser til buffer...</buffstatus>	
+	<ttpl>Afspilningsliste</ttpl>	
+	<ttseek>Tidssøgning</ttseek>
+	
+	<!-- *** playlist -->
+	<preprom>Forbereder optisk drev</preprom>
+	<prepnet>Forbereder netværkslagring</prepnet>
+	<prepdrives>Opdaterer drevliste</prepdrives>
+	<prepintdrive>Forbereder interne drev</prepintdrive>
+	<usbdrive>USB drev</usbdrive>
+	<intdrive>Internt drev</intdrive>
+	<updateshare>Opdaterer delte foldere liste</updateshare>
+	
+	<!-- *** evStreamed      -->
+	<page>Side</page>
+	<actors>Skuespillere</actors>
+	<directors>Instruktører</directors>
+	<runtime>Spilletid</runtime>
+	<writers>Forfattere</writers>
+	<year>År</year>
+	<genres>Genrer</genres>
+	<certification>Certificering</certification>
+	<watched>Set</watched>
+	<webpage>Hjemmeside</webpage>
+	<hardware>Hardware</hardware>
+	<model>Model</model>
+    <firmware>Firmware</firmware>	
+	<settingsfile>Indstillingsfil</settingsfile>
+	
+	
+    <!-- *** titles and skin -->	
+	<season>Sæson</season>       		
+	<seasons>Sæsoner</seasons>
+	<seasonshort>S</seasonshort>  		
+
+	<episode>Episode</episode>			
+	<episodes>Episoder</episodes>			
+	<episodeshort>E</episodeshort>		
+
+	<rating>Vurdering</rating>
+	<ratings>Vurderinger</ratings>
+	
+	<special>Speciel</special>     		
+	<specials>Specielle</specials>	
+
+	<show>Show</show>
+	<shows>Shows</shows>
+	
+	<part>Del</part>
+	<parts>Dele</parts>
+	
+	<plot>Plot</plot>
+	
+	<title>Titel</title>
+	<titles>Titler</titles>
+
+	<movie>Film</movie>
+	<movies>Film</movies>	
+	
+	<aired>Blev først sendt</aired>
+	
+	<subtitle>Undertekst</subtitle>
+	<subtitles>Undertekster</subtitles>
+	<extras>Ekstramateriale</extras>
+	<audio>Audio</audio>
+	<video>Video</video>
+	<channels>Kanaler</channels>
+	
+	<yes>Ja</yes>
+	<no>Nej</no>
+	<true>Ægte</true>
+	<false>Falsk</false>
+
+<!-- *** Error messages         -->	
+	<error>Fejl</error>
+	<noeps>Ingen episoder</noeps>
+	<ehw>Hardware svarer ikke</ehw>
+	
+	<eprobfile>Problem med fil: </eprobfile>
+	<enoload>Kan ikke indlæse: </enoload>
+	<enodatain>Ingen data i </enodatain>
+	<enovideo>Ingen videoer at afspille</enovideo>
+	<enativeresp>Standardafspilleren reagerer ikke</enativeresp>
+	<ewinpath>Fejlkonfigureret afspilningssti, har fundet Windows stiformat</ewinpath>
+	<enotfound>ikke fundet</enotfound>
+	<enomount>Kan ikke etablere forbindelse til netværksdrev:</enomount>
+	<enomountzero>Kan ikke oprette forbindelse til fil:</enomountzero>
+	<enoshare>Ingen delte foldere konfigureret i afspillerens indstillinger:</enoshare>
+	<enodisc>Indsæt venligst en disk</enodisc>
+	<enocdrom>Intet DVD/Bluray drev fundet</enocdrom>
+	<enodata>Ingen data</enodata>
+	<segment>Segment</segment>
+	
+	
+	<oldyamj>Gammel yamj version fundet</oldyamj>
+	<eyver>Opgrader venligst YAMJ. Eversion virker bedst med R</eyver>
+	
+	<badevupdate>Eversion forkert installeret</badevupdate>
+	<ewarning>En dårlig Eversion opgradering fundet. Afslut venligst og kontroller din opsætning.</ewarning>
+	<restartev>Opdatering til Eversion fundet. Afslut venligst Eversion og start igen.</restartev>
+	
+	<badevupgrade>Eversion BETA2 forkert opgraderet</badevupgrade>
+	<ewarninga>En ufuldstændig opgradering fra beta1 til BETA2 er fundet. Besøg venligst www.dentedboxes.com/beta2 for hjælp og mere information.</ewarninga>
+	
+<!-- eskins skinner errors (most likely not needed for end users) -->
+	<eunknownscreen>Ukendt skærmtype</eunknownscreen>	
+	<esnoxtradata>Kan ikke starte ekstramateriale, ingen data</esnoxtradata>
+	<esnoxtrafile>Kan ikke starte ekstramateriale, ingen eskin filnavn</esnoxtrafile>
+	<enoextras>Ingen ekstramateriale fundet i YAMJ XML</enoextras>
+	<enoparts>Ingen multi-del filmfiler fundet i YAMJ XML</enoparts>
+	<enoindexfilename>Ingen indeks filnavn</enoindexfilename>
+</translation>

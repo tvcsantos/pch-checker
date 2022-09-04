@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eskin>
+	<info>
+	  <name>evStreamed</name>
+	  <version>1.0.4</version>
+	  <homepage>http://www.dentedboxes.com</homepage>
+	</info>
+	<settings>
+	    <starttype>home</starttype>
+		<home>home</home>	
+		<menu>menu</menu>
+		<index default="infowall">infowall,infobanner,infobanner2,infolist,wallfull,infolistbanner,wallfullbanner</index>
+		<movie default="movie">movie,movie2</movie>
+		<tv default="tv">tv</tv>
+	</settings>
+</eskin>

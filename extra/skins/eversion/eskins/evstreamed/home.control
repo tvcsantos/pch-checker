@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Control file for home page of Eversion evstreamed eskin. 
+
+For more info: http://www.dentedboxes.com/doku.php/eversion:eskins:ref:control
+-->
+<control>
+	<insert>
+		<info>homelist</info>
+	</insert>
+	<item>
+		<action>SWITCH</action>
+		<title>[:%trailers:]</title>
+		<data>eskin://trailerwall</data>
+		<feed>http://trailers.lundman.net</feed>
+	</item>	
+	<insert>
+		<info>playrom</info>
+	</insert>	
+	<item>
+		<action>apps</action>
+		<title>[:%apps:]</title>
+	</item>
+	<item>
+		<action>exit</action>
+		<title>[:%exit:]</title>
+	</item>
+</control>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eskin>
+    <control>
+		<fullscreen>false</fullscreen>
+		<passthrough>themenu</passthrough>
+    </control>
+	<image>
+		<name>menubg</name>
+		<file>[:@media:]common/menubg.png</file>
+		<posx>1002</posx>
+		<posy>0</posy>
+		<width>278</width>
+		<height>720</height>
+	</image>
+</eskin>

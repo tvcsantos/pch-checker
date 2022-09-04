@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	EVERSION Dutch prompts
+	
+	********************** NOT UPDATE FRIENDLY  *********************
+	If you want to make changes to any translation file, please make
+	a unique filename for it.  This is the best way to make sure your
+	file is not lost during upgrades.
+	******************************************************************
+	
+	If you translate the skin into your native language, please let us 
+	know so we can include the translation in a future release (and 
+	contact you if we add new prompts before future releases)
+	
+	Edit <translation>nl.xml</translation> controls what language file 
+	to use.
+	
+	Changes to this file will not work until you copy it to your Jukebox 
+	folder AND you have added this file as your translation setting in 
+	skinsettings.xml.
+	
+	For help, visit: http://www.dentedboxes.com/doku.php/help:settings
+-->
+
+<translation>
+    <!-- *** System                 -->
+	<starting>Starten</starting>
+	<pleasewait>Even wachten a.u.b.</pleasewait>
+	<reset>Reset</reset>
+	<ignore>Negeren</ignore>
+	<exit>Afsluiten</exit>
+	<home>Home</home>
+	<about>Over</about>
+	<sapps>Apps</sapps>	
+	<apps>Apps</apps>
+	<okselect>OK</okselect>      <!-- ok prompt on popup messages -->
+	<yupdate>YAMJ JUKEBOX UPDATE GEDETECTEERD</yupdate>
+	<alert>Informatie</alert>
+	<loading>Laden</loading>
+	<eskin>Eskin</eskin>
+	<prepcat>Categoriën laden</prepcat>
+	<prepcset>Aangepaste speler laden</prepcset>
+	
+    <!-- *** SDK Player      	-->
+	<skipto>Verspringen naar</skipto>
+	<goto>Ga naar</goto>
+	<playlist>Afspeellijst</playlist>
+	<couldnotplay>Afspelen mislukt</couldnotplay>
+	<infopanel>Info</infopanel>
+	<dlspeed>Download snelheid</dlspeed>
+	<videoquality>Video kwaliteit</videoquality>
+	<connstatus>Verbinden met media...</connstatus>
+	<buffstatus>Bufferen...</buffstatus>	
+	<ttpl>Afspeellijst</ttpl>	
+	<ttseek>Tijdzoeker</ttseek>
+	
+	<!-- *** playlist -->
+	<preprom>Optische schijf voorbereiden</preprom>
+	<prepnet>Netwerkopslag voorbereiden</prepnet>
+	<prepdrives>Lijst met schijven verversen</prepdrives>
+	<prepintdrive>Interne schijf voorbereiden</prepintdrive>
+	<usbdrive>USB-station</usbdrive>
+	<intdrive>Interne schijf</intdrive>
+	<updateshare>Lijst met gedeelde mappen verversen</updateshare>
+	
+	<!-- *** evStreamed      -->
+	<other>Overigen</other>
+	<library>Bibliotheek</library>
+	<cast>Rolverdeling</cast>
+	<director>Regiseur</director>
+	<writer>Schrijver</writer>
+	<country>Land</country>
+	<set>Set</set>
+	<award>Prijs</award>
+	<person>Personage</person>	
+	<page>Pagina</page>
+	<actors>Acteur(s)</actors>
+	<directors>Regiseur(s)</directors>
+	<runtime>Speelduur</runtime>
+	<writers>Schrijver(s)</writers>
+	<year>Jaar</year>
+	<genres>Genre(s)</genres>
+	<certification>Certificering</certification>
+	<watched>Gezien</watched>
+	<webpage>Webpagina</webpage>
+	<hardware>Hardware</hardware>
+	<model>Model</model>
+	<firmware>Firmware</firmware>	
+	<settingsfile>Instellingen bestand</settingsfile>
+	<trailers>Trailers</trailers>
+	
+	
+    <!-- *** titles and skin -->	
+	<season>Seizoen</season>       		
+	<seasons>Seizoenen</seasons>
+	<seasonshort>S</seasonshort>  		
+
+	<episode>Aflevering</episode>			
+	<episodes>Afleveringen</episodes>			
+	<episodeshort>A</episodeshort>		
+
+	<rating>Beoordeling</rating>
+	<ratings>Beoordelingen</ratings>
+	
+	<special>Special</special>     		
+	<specials>Specials</specials>	
+
+	<show>Show</show>
+	<shows>Shows</shows>
+	
+	<part>deel</part>
+	<parts>delen</parts>
+	
+	<plot>Plot</plot>
+	
+	<title>Titel</title>
+	<titles>Titels</titles>
+
+	<movie>Film</movie>
+	<movies>Films</movies>	
+	
+	<aired>Eerst uitgezonden</aired>
+	
+	<subtitle>Ondert.</subtitle>
+	<subtitles>Ondert.</subtitles>
+	<extras>Extra's</extras>
+	<audio>Geluid</audio>
+	<video>Beeld</video>
+	<channels>Kanalen</channels>
+	
+	<yes>Ja</yes>
+	<no>Nee</no>
+	<true>Juist</true>
+	<false>Onjuist</false>
+
+<!-- *** Error messages         -->	
+	<error>Fout</error>
+	<noeps>Geen afleveringen</noeps>
+	<ehw>Hardware reageert niet</ehw>
+	
+	<eprobfile>Probleem met bestand: </eprobfile>
+	<enoload>Kan niet worden geladen: </enoload>
+	<enodatain>Geen data in </enodatain>
+	<enovideo>Geen video's om af te spelen</enovideo>
+	<enativeresp>Standaard speler reageert niet</enativeresp>
+	<ewinpath>Verkeerd geconfigureerd speler pad, windows pad gedetecteerd</ewinpath>
+	<enotfound>niet gevonden</enotfound>
+	<enomount>Kan geen verbinding tot stand brengen met gedeeld netwerk:</enomount>
+	<enomountzero>Kan geen verbinding tot stand brengen met bestand:</enomountzero>
+	<enoshare>Gedeelde map niet geconfigureerd in hardware speler instellingen:</enoshare>
+	<enodisc>Plaats een schijf a.u.b.</enodisc>
+	<enocdrom>Geen DVD/Bluray-station gevonden</enocdrom>
+	<enodata>Geen data</enodata>
+	<segment>Segment</segment>
+	
+	
+	<oldyamj>Verouderde versie van yamj gedetecteerd</oldyamj>
+	<eyver>A.U.B. YAMJ upgraden. Eversion werkt het beste met R</eyver>
+	
+	<badevupdate>Eversion niet goed geinstalleerd</badevupdate>
+	<ewarning>Een foutief upgrade van Eversion is gedetecteerd. A.U.B. Eversion afsluiten en controleer uw instellingen.</ewarning>
+	
+	<evupdatefinish>Eversion update niet voltooid</evupdatefinish>
+	<restartev>Onvolledige update gedetecteerd. A.U.B. Eversion afsluiten en opnieuw starten om te voltooien.</restartev>
+	
+	<badevupgrade>Eversion BETA2 upgrade foutief</badevupgrade>
+	<ewarninga>Een ovolledige upgrade van BETA1 naar BETA2 gedetecteerd. A.U.B. www.dentedboxes.com/beta2 bezoeken voor hulp.</ewarninga>
+	
+<!-- eskins skinner errors (most likely not needed for end users) -->
+	<eunknownscreen>Onbekend scherm type</eunknownscreen>	
+	<esnoxtradata>Kan EXTRA niet starten, geen data</esnoxtradata>
+	<esnoxtrafile>kan EXTRA niet starten, geen eskin bestandsnaam</esnoxtrafile>
+	<enoextras>Geen extra's gevonden in YAMJ XML</enoextras>
+	<enoparts>Geen meerdelige filmbestanden gevonden in YAMJ XML</enoparts>
+	<enoindexfilename>Geen index bestandsnaam</enoindexfilename>
+</translation>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eskin>
+    <control>
+		<fullscreen>true</fullscreen>
+		<clearhighresbg>false</clearhighresbg>
+    </control>
+	<background>
+		<file>[:@jukebox:][:fanart:]</file>
+		<highres>true</highres>
+	</background>
+	<image>
+		<name>bgoverlay</name>
+		<file>[:@media:]movie/overlay.png</file>
+		<posx>0</posx>
+		<posy>0</posy>
+		<width>1280</width>
+		<height>720</height>
+	</image>	
+	<image>
+		<name>dataoverlay</name>
+		<file>[:@media:]movie/detailsbg.png</file>
+		<posx>340</posx>
+		<posy>380</posy>
+		<width>896</width>
+		<height>337</height>
+	</image>
+	<include>clock</include>	
+	<include>common.movie</include>
+	<include>remote.movie</include>	
+</eskin>

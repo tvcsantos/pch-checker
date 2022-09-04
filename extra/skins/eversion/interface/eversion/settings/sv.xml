@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	EVERSION English prompts
+	
+	********************** NOT UPDATE FRIENDLY  *********************
+	If you want to make changes to any translation file, please make
+	a unique filename for it.  This is the best way to make sure your
+	file is not lost during upgrades.
+	******************************************************************
+	
+	If you translate the skin into your native language, please let us 
+	know so we can include the translation in a future release (and 
+	contact you if we add new prompts before future releases)
+	
+	Edit <translation>en.xml</translation> controls what language file 
+	to use.
+	
+	Changes to this file will not work until you copy it to your Jukebox 
+	folder AND you have added this file as your translation setting in 
+	skinsettings.xml.
+	
+	For help, visit: http://www.dentedboxes.com/doku.php/help:settings
+-->
+
+<translation>
+    <!-- *** System                 -->
+	<starting>Startar</starting>
+	<pleasewait>Vänta</pleasewait>
+	<reset>Återställ</reset>
+	<ignore>Ignorera</ignore>
+	<exit>Avsluta</exit>
+	<home>Hem</home>
+	<about>Om</about>
+	<sapps>Appar</sapps>	
+	<apps>Appar</apps>
+	<okselect>OK</okselect>      <!-- ok prompt on popup messages -->
+	<yupdate>YAMJ JUKEBOX UPPDATERING UPPTÄCKT</yupdate>
+	<alert>Information</alert>
+	<loading>Laddar</loading>
+	<eskin>Eskin</eskin>
+	<prepcat>Laddar kategorier</prepcat>
+	<prepcset>Laddar spelar anpassningar</prepcset>
+
+	
+    <!-- *** HyperScroll          	-->
+	<loading>Laddar</loading>
+	
+    <!-- *** SDK Player      	-->
+	<skipto>Hoppa till</skipto>
+	<goto>Gå till</goto>
+	<playlist>Spellista</playlist>
+	<couldnotplay>Går inte att spela upp</couldnotplay>
+	<infopanel>Info</infopanel>
+	<dlspeed>Nedladdningshastighet</dlspeed>
+	<videoquality>Video kvalitet</videoquality>
+	<connstatus>Ansluter till media...</connstatus>
+	<buffstatus>Buffrar...</buffstatus>	
+	<ttpl>Spellista</ttpl>	
+	<ttseek>Tidssökning</ttseek>
+	
+	<!-- *** playlist -->
+	<preprom>Förbereder optisk enhet</preprom>
+	<prepnet>Förbereder nätverkslagring</prepnet>
+	<prepdrives>Uppdaterar enhetslistan</prepdrives>
+	<prepintdrive>Förbereder intern enhet</prepintdrive>
+	<usbdrive>USB enhet</usbdrive>
+	<intdrive>Intern enhet</intdrive>
+	<updateshare>Uppdaterar listan över utdelade enheter</updateshare>
+	
+	<!-- *** evStreamed      -->
+	<page>Sida</page>
+	<actors>Skådespelare</actors>
+	<directors>Regisörer</directors>
+	<runtime>Speltid</runtime>
+	<writers>Manusförfattare</writers>
+	<year>År</year>
+	<genres>Genres</genres>
+	<certification>Certifiering</certification>
+	<watched>Sedda</watched>
+	<webpage>Webbsida</webpage>
+	<hardware>Hårdvara</hardware>
+	<model>Modell</model>
+    <firmware>Firmware</firmware>	
+	<settingsfile>Inställningsfil</settingsfile>
+	
+	
+    <!-- *** titles and skin -->	
+	<season>Säsong</season>       		
+	<seasons>Säsonger</seasons>
+	<seasonshort>S</seasonshort>  		
+
+	<episode>Episod</episode>			
+	<episodes>Episoder</episodes>			
+	<episodeshort>E</episodeshort>		
+
+	<rating>Betyg</rating>
+	<ratings>Betyg</ratings>
+	
+	<special>Special</special>     		
+	<specials>Special</specials>	
+
+	<show>Show</show>
+	<shows>Shower</shows>
+	
+	<part>Del</part>
+	<parts>Delar</parts>
+	
+	<plot>Handling</plot>
+	
+	<title>Titel</title>
+	<titles>Titlar</titles>
+
+	<movie>Film</movie>
+	<movies>Filmer</movies>	
+	
+	<!-- <aired>First Aired</aired> -->
+	
+	<subtitle>Undertext</subtitle>
+	<subtitles>Undertexter</subtitles>
+	<extras>Extra</extras>
+	<audio>Ljud</audio>
+	<video>Bild</video>
+	<channels>Kanaler</channels>
+	
+	<yes>Ja</yes>
+	<no>Nej</no>
+	<true>Sant</true>
+	<false>Falskt</false>
+
+<!-- *** Error messages         -->	
+	<error>Fel</error>
+	<noeps>Inga episoder</noeps>
+	<ehw>Hårdvaran svarar ej</ehw>
+	
+	<eprobfile>Problem med fil: </eprobfile>
+	<enoload>Kan Inte Ladda: </enoload>
+	<enodatain>Data saknas i </enodatain>
+	<enovideo>Ingen video att visa</enovideo>
+	<enativeresp>Inbyggd spelare svarar ej</enativeresp>
+	<ewinpath>Felkonfigurerad spelarsökväg, windowssökväg upptäckt</ewinpath>
+	<enotfound>Ej funnen</enotfound>
+	<enomount>Kan inte ansluta till nätverksenhet:</enomount>
+	<enomountzero>Kan inte hitta fil:</enomountzero>
+	<enoshare>Utdelad enhet är inte konfigurerad i spelarens hårdvaruinställningar:</enoshare>
+	<enodisc>Sätt i en skiva</enodisc>
+	<enocdrom>DVD/Bluray enhet ej funnen</enocdrom>
+	<enodata>Ingen data</enodata>
+	<segment>Segment</segment>
+	
+	
+	<oldyamj>Gammal version av YAMJ hittad</oldyamj>
+	<eyver>Uppdatera YAMJ. Eversion fungerar bäst med R</eyver>
+	
+	<badevupdate>Felaktig installation av Eversion</badevupdate>
+	<ewarning>En korrupt eversionuppgradering upptäckt. Avsluta och kontrollera installationen.</ewarning>
+	
+	<badevupgrade>Eversion BETA2 felaktigt uppgraderad</badevupgrade>
+	<ewarninga>En ofullständig uppgradering från BETA1 till BETA2 upptäckt.  Besök www.dentedboxes.com/beta2 for hjälp.</ewarninga>
+	
+<!-- eskins skinner errors (most likely not needed for end users) -->
+	<eunknownscreen>Okänd skärmenhet</eunknownscreen>	
+	<esnoxtradata>Kan inte starta EXTRA, ingen data</esnoxtradata>
+	<esnoxtrafile>Kan inte starta EXTRA, inget eskin filnamn</esnoxtrafile>
+	<enoextras>Inga extras hittade i YAMJ XML</enoextras>
+	<enoparts>Inga multi-part film filer hittade i YAMJ XML</enoparts>
+	<enoindexfilename>Inget index filnamn</enoindexfilename>
+</translation>

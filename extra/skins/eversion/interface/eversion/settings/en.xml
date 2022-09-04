@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	EVERSION English prompts
+	
+	********************** NOT UPDATE FRIENDLY  *********************
+	If you want to make changes to any translation file, please make
+	a unique filename for it.  This is the best way to make sure your
+	file is not lost during upgrades.
+	******************************************************************
+	
+	If you translate the skin into your native language, please let us 
+	know so we can include the translation in a future release (and 
+	contact you if we add new prompts before future releases)
+	
+	Edit <translation>en.xml</translation> controls what language file 
+	to use.
+	
+	Changes to this file will not work until you copy it to your Jukebox 
+	folder AND you have added this file as your translation setting in 
+	skinsettings.xml.
+	
+	For help, visit: http://www.dentedboxes.com/doku.php/help:settings
+-->
+
+<translation>
+    <!-- *** System                 -->
+	<starting>Starting</starting>
+	<pleasewait>Please wait</pleasewait>
+	<reset>Reset</reset>
+	<ignore>Ignore</ignore>
+	<exit>Exit</exit>
+	<home>Home</home>
+	<about>About</about>
+	<sapps>Apps</sapps>	
+	<apps>Apps</apps>
+	<okselect>OK</okselect>      <!-- ok prompt on popup messages -->
+	<yupdate>YAMJ JUKEBOX UPDATE DETECTED</yupdate>
+	<alert>Information</alert>
+	<loading>Loading</loading>
+	<eskin>Eskin</eskin>
+	<prepcat>Loading Categories</prepcat>
+	<prepcset>Loading Custom Player Settings</prepcset>
+	
+    <!-- *** SDK Player      	-->
+	<skipto>Skip to</skipto>
+	<goto>Go to</goto>
+	<playlist>Playlist</playlist>
+	<couldnotplay>Could not play</couldnotplay>
+	<infopanel>Info</infopanel>
+	<dlspeed>Download Speed</dlspeed>
+	<videoquality>Video Quality</videoquality>
+	<connstatus>Connecting to media...</connstatus>
+	<buffstatus>Buffering...</buffstatus>	
+	<ttpl>Playlist</ttpl>	
+	<ttseek>Time Seek</ttseek>
+	
+	<!-- *** playlist -->
+	<preprom>Preparing Optical Drive</preprom>
+	<prepnet>Preparing network storage</prepnet>
+	<prepdrives>Updating drive list</prepdrives>
+	<prepintdrive>Preparing internal drive</prepintdrive>
+	<usbdrive>USB drive</usbdrive>
+	<intdrive>Internal drive</intdrive>
+	<updateshare>Update share list</updateshare>
+	
+	<!-- *** evStreamed      -->
+	<other>Other</other>
+	<library>Library</library>
+	<cast>Cast</cast>
+	<director>Director</director>
+	<writer>Writer</writer>
+	<country>Country</country>
+	<set>Set</set>
+	<award>Award</award>
+	<person>Person</person>	
+	<page>Page</page>
+	<actors>Actors</actors>
+	<directors>Directors</directors>
+	<runtime>Runtime</runtime>
+	<writers>Writers</writers>
+	<year>Year</year>
+	<genres>Genres</genres>
+	<certification>Certification</certification>
+	<watched>Watched</watched>
+	<webpage>Webpage</webpage>
+	<hardware>Hardware</hardware>
+	<model>Model</model>
+    <firmware>Firmware</firmware>	
+	<settingsfile>Settings File</settingsfile>
+	<trailers>Trailers</trailers>
+	
+	
+    <!-- *** titles and skin -->	
+	<season>Season</season>       		
+	<seasons>Seasons</seasons>
+	<seasonshort>S</seasonshort>  		
+
+	<episode>Episode</episode>			
+	<episodes>Episodes</episodes>			
+	<episodeshort>E</episodeshort>		
+
+	<rating>Rating</rating>
+	<ratings>Ratings</ratings>
+	
+	<special>Special</special>     		
+	<specials>Specials</specials>	
+
+	<show>Show</show>
+	<shows>Shows</shows>
+	
+	<part>part</part>
+	<parts>parts</parts>
+	
+	<plot>Plot</plot>
+	
+	<title>Title</title>
+	<titles>Titles</titles>
+
+	<movie>Movie</movie>
+	<movies>Movies</movies>	
+	
+	<top250>Top 250</top250>
+	
+	<aired>First Aired</aired>
+	
+	<subtitle>Subtitle</subtitle>
+	<subtitles>Subtitles</subtitles>
+	<extras>Extras</extras>
+	<audio>Audio</audio>
+	<video>Video</video>
+	<channels>Channels</channels>
+    <unknown>Unknown</unknown>
+	
+	<yes>Yes</yes>
+	<no>No</no>
+	<true>True</true>
+	<false>False</false>
+
+<!-- *** Error messages         -->	
+	<error>Error</error>
+	<noeps>No Episodes</noeps>
+	<ehw>Hardware no responding</ehw>
+	
+	<eprobfile>Problem with file: </eprobfile>
+	<enoload>Unable to load: </enoload>
+	<enodatain>No data in </enodatain>
+	<enovideo>No videos to play</enovideo>
+	<enativeresp>Native player not responding</enativeresp>
+	<ewinpath>Misconfigured playerpath, windows path detected</ewinpath>
+	<enotfound>not found</enotfound>
+	<enomount>Unable to establish connection to network share:</enomount>
+	<enomountzero>Unable to establish connection to file:</enomountzero>
+	<enoshare>Share not configured in hardware player settings:</enoshare>
+	<enodisc>Please insert a disc</enodisc>
+	<enocdrom>No DVD/Bluray drive found</enocdrom>
+	<enodata>No Data</enodata>
+	<segment>Segment</segment>
+	
+	
+	<oldyamj>Old version of yamj detected</oldyamj>
+	<eyver>Please upgrade YAMJ. Eversion works best with R</eyver>
+	
+	<badevupdate>Eversion installed wrong</badevupdate>
+	<ewarning>A bad Eversion upgrade is detected. Please exit and check your setup.</ewarning>
+	
+	<evupdatefinish>Eversion update incomplete</evupdatefinish>
+	<restartev>Incomplete update detected.  Please exit Eversion and start again to finish.</restartev>
+	
+	<badevupgrade>Eversion BETA2 upgraded wrong</badevupgrade>
+	<ewarninga>An incomplete upgrade from BETA1 to BETA2 detected.  Please visit www.dentedboxes.com/beta2 for help.</ewarninga>
+	
+<!-- eskins skinner errors (most likely not needed for end users) -->
+	<eunknownscreen>Unknown screen type</eunknownscreen>	
+	<esnoxtradata>Cannot start EXTRA, no data</esnoxtradata>
+	<esnoxtrafile>Cannot start EXTRA, no eskin filename</esnoxtrafile>
+	<enoextras>No extras found in YAMJ XML</enoextras>
+	<enoparts>No multi-part movie files found in YAMJ XML</enoparts>
+	<enoindexfilename>No index filename</enoindexfilename>
+</translation>

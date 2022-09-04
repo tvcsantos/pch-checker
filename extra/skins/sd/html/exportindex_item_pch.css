@@ -1,0 +1,11 @@
+table.title { width:470; font-size: 12pt; color: #AAAAAA; }
+div.title{ visibility:hidden; }
+div.counter {font-size: 12pt; color: #AAAAAA}
+
+body { font-size: 8pt; color: #AAAAAA; text-decoration: none; }
+a { font-size: 12pt; font-weight: bold; color: #AAAAAA; text-decoration: none; }
+img { border: 0; }
+table.main { width:640; height:480; }
+table.categories { }
+td { text-decoration: none;}
+td.movies { padding-right: 8px;}

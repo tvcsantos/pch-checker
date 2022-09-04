@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eskin>	
+	<image>
+		<name>overlay1</name>
+		<file>[:@media:]wall/listoverlay.png</file>
+		<posx>0</posx>
+		<posy>0</posy>
+		<width>1280</width>
+		<height>720</height>
+	</image>
+	<image>
+		<name>navbarunderlay</name>
+		<file>[:@media:]wall/topbar_overlay.png</file>
+		<posx>0</posx>
+		<posy>10</posy>
+		<width>1280</width>
+		<height>51</height>
+	</image>	
+	<include>lowernavbar</include>
+</eskin>

@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	EVERSION French prompts
+	
+	********************** NOT UPDATE FRIENDLY  *********************
+	If you want to make changes to any translation file, please make
+	a unique filename for it.  This is the best way to make sure your
+	file is not lost during upgrades.
+	******************************************************************
+	
+	If you translate the skin into your native language, please let us 
+	know so we can include the translation in a future release (and 
+	contact you if we add new prompts before future releases)
+	
+	Edit <translation>fr.xml</translation> controls what language file 
+	to use.
+	
+	Changes to this file will not work until you copy it to your Jukebox 
+	folder AND you have added this file as your translation setting in 
+	skinsettings.xml.
+	
+	For help, visit: http://www.dentedboxes.com/doku.php/help:settings
+-->
+
+<translation>
+    <!-- *** System                 -->
+	<starting>Démarrage</starting>
+	<pleasewait>Veuillez patienter</pleasewait>
+	<reset>Réinitialiser</reset>
+	<ignore>Ignorer</ignore>
+	<exit>Sortir</exit>
+	<home>Accueil</home>
+	<about>À Propos</about>
+	<sapps>Apps Syabas</sapps>	
+	<apps>Apps</apps>
+	<okselect>OK</okselect>      <!-- ok prompt on popup messages -->
+	<yupdate>MISE À JOUR YAMJ JUKEBOX DETECTÉE</yupdate>
+	<alert>Information</alert>
+	<eskin>Eskin</eskin>
+	<prepcat>Chargement des catégories</prepcat>
+	<prepcset>Chargement des paramètres personalisés</prepcset>
+
+	
+    <!-- *** HyperScroll          	-->
+	<loading>Chargement</loading>
+	
+    <!-- *** SDK Player      	-->
+	<skipto>Naviger vers</skipto>
+	<goto>Aller à</goto>
+	<playlist>Liste de lecture</playlist>
+	<couldnotplay>Lecture impossible</couldnotplay>
+	<infopanel>Info</infopanel>
+	<dlspeed>Vitesse de Téléchargement</dlspeed>
+	<videoquality>Qualité de la Video</videoquality>
+	<connstatus>Connection au media...</connstatus>
+	<buffstatus>Mise en Tampon...</buffstatus>	
+	<ttpl>Liste de lecture</ttpl>	
+	<ttseek>Recherche temporelle</ttseek>
+	
+	<!-- *** playlist -->
+	<preprom>Préparation du lecteur optique</preprom>
+	<prepnet>Préparation du stockage réseau</prepnet>
+	<prepdrives>Mise à jour de la liste des disques</prepdrives>
+	<prepintdrive>Préparation du disque interne</prepintdrive>
+	<usbdrive>Clef USB</usbdrive>
+	<intdrive>Disque interne</intdrive>
+	<updateshare>Mise à jour liste des partages réseau</updateshare>
+	
+	<!-- *** evStreamed      -->
+	<other>Autres</other>
+	<library>Bibliothèque</library>
+	<cast>Acteurs</cast>
+	<director>Réalisateur</director>
+	<writer>Scénaristes</writer>
+	<country>Pays</country>
+	<set>Set</set>
+	<award>Nominations</award>
+	<person>Personne</person> `		
+	
+	<page>Page</page>
+	<actors>Acteurs</actors>
+	<directors>Réalisateurs</directors>
+	<runtime>Durée</runtime>
+	<writers>Scénaristes</writers>
+	<year>Année</year>
+	<genres>Genres</genres>
+	<certification>Certification</certification>
+	<watched>Regardé</watched>
+	<webpage>Page Web</webpage>
+	<hardware>Matériel</hardware>
+	<model>Modèle</model>
+    <firmware>Firmware</firmware>	
+	<settingsfile>Fichier de Configuration</settingsfile>
+	
+	
+    <!-- *** titles and skin -->	
+	<season>Saison</season>       		
+	<seasons>Saisons</seasons>
+	<seasonshort>S</seasonshort>  		
+
+	<episode>Épisode</episode>			
+	<episodes>Épisodes</episodes>			
+	<episodeshort>E</episodeshort>		
+
+	<rating>Évaluation</rating>
+	<ratings>Évaluations</ratings>
+	
+	<special>Spéciale</special>     		
+	<specials>Spéciales</specials>	
+
+	<show>Série</show>
+	<shows>Séries</shows>
+	
+	<part>Partie</part>
+	<parts>Parties</parts>
+	
+	<plot>Synopsis</plot>
+	
+	<title>Titre</title>
+	<titles>Titres</titles>
+
+	<movie>Film</movie>
+	<movies>Films</movies>	
+	
+	<aired>Première diffusion</aired>
+	
+	<subtitle>S-Titre</subtitle>
+	<subtitles>S-Titres</subtitles>
+	<extras>Extras</extras>
+	<audio>Audio</audio>
+	<video>Video</video>
+	<channels>Canaux</channels>
+	
+	<yes>Oui</yes>
+	<no>Non</no>
+	<true>Vrai</true>
+	<false>Faux</false>
+
+<!-- *** Error messages         -->	
+	<error>Erreur</error>
+	<noeps>Pas d'épisodes</noeps>
+	<ehw>Le matériel ne répond pas</ehw>
+	
+	<eprobfile>Problème avec le fichier: </eprobfile>
+	<enoload>Impossible de charger: </enoload>
+	<enodatain>Pas de données dans </enodatain>
+	<enovideo>Pas de vidéos à jouer</enovideo>
+	<enativeresp>Lecteur Natif ne répond pas</enativeresp>
+	<ewinpath>Mauvaise configuration du chemin du lecteur; chemin de type windows détecté</ewinpath>
+	<enotfound>non trouvé</enotfound>
+	<enomount>Impossible d'établir connection vers partage réseau:</enomount>
+	<enomountzero>Impossible d'établir connection vers fichier:</enomountzero>
+	<enoshare>Partage réseau non configuré dans les paramètres du lecteur matériel:</enoshare>
+	<enodisc>Veuillez insérer un disque</enodisc>
+	<enocdrom>DVD/Bluray non présent</enocdrom>
+	<enodata>Pas de données</enodata>
+	<segment>Segment</segment>
+	
+	
+	<oldyamj>Ancienne version de YAMJ détectée</oldyamj>
+	<eyver>Veuillez mettre-à-jour YAMJ. Eversion fonctionne mieux avec R</eyver>
+	
+	<badevupdate>Mauvaise installation d'Eversion</badevupdate>
+	<ewarning>Problème potentiel de mise à jour d'Eversion. Veuillez redémarrer et vérifier qu'Eversion a été correctement copié dans le répertoire Jukebox.</ewarning>
+	
+	<badevupgrade>Mauvaise mise-à-jour d'Eversion BETA2</badevupgrade>
+	<ewarninga>Mise-à-jour incomplète de BETA1 vers BETA2 détectée.  Veuillez consulter www.dentedboxes.com/beta2 pour l'aide.</ewarninga>
+	
+<!-- eskins skinner errors (most likely not needed for end users) -->
+	<eunknownscreen>Mauvais type d'écran</eunknownscreen>	
+	<esnoxtradata>Ne peu pas démarrer EXTRA, pas de données</esnoxtradata>
+	<esnoxtrafile>Ne peu pas démarrer EXTRA, pas de nom de fichier eskin</esnoxtrafile>
+	<enoextras>Pas d'extras trouvés dans YAMJ XML</enoextras>
+	<enoparts>Pas de fichier multi-parties trouvés dans YAMJ XML</enoparts>
+	<enoindexfilename>Pas de nom de fichier index</enoindexfilename>
+</translation>

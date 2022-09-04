@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="21" updatableVersionMin="" updatableVersionMax="" fileName="pchc_windows_1_0a.exe" newVersion="1.0a" newMediaFileId="21" fileSize="33574400" bundledJre="" archive="false">
+    <comment />
+  </entry>
+  <entry targetMediaFileId="22" updatableVersionMin="" updatableVersionMax="" fileName="pchc_unix_1_0a.sh" newVersion="1.0a" newMediaFileId="22" fileSize="32655028" bundledJre="" archive="false">
+    <comment />
+  </entry>
+  <entry targetMediaFileId="23" updatableVersionMin="" updatableVersionMax="" fileName="pchc_macos_1_0a.dmg" newVersion="1.0a" newMediaFileId="23" fileSize="33302528" bundledJre="" archive="false">
+    <comment />
+  </entry>
+</updateDescriptor>
+

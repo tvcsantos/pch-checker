@@ -1,0 +1,77 @@
+<!--                                                                                   -->
+<!-- Category elements should not be removed or added                                  -->
+<!--                                                                                   -->
+<!-- This is for the enabling and disabling, as well as renaming of currently          -->
+<!-- existing categories only.                                                         -->
+<!-- By default, all categories are enabled.                                           -->
+<!--                                                                                   -->
+<!-- Example of renaming:                                                              -->
+<!--  <category name="New">                                                            -->
+<!--    <enable>true</enable>                                                          -->
+<!--    <rename>Recent</rename>                                                        -->
+<!--  </category>                                                                      -->
+<!--                                                                                   -->
+<!-- Example of disabling:                                                             -->
+<!--  <category name="Top250">                                                         -->
+<!--    <enable>false</enable>                                                         -->
+<!--    <rename>Top250</rename>                                                        -->
+<!--  </category>                                                                      -->
+
+<categories>
+  <category name="All">
+    <enable>true</enable>
+    <rename>All</rename>
+  </category>
+  <category name="New">
+    <enable>true</enable>
+    <rename>New</rename>
+  </category>
+  <category name="New-TV">
+    <enable>true</enable>
+    <rename>New-TV</rename>
+  </category>
+  <category name="New-Movie">
+    <enable>true</enable>
+    <rename>New-Movies</rename>
+  </category>
+  <category name="Movies">
+    <enable>true</enable>
+    <rename>Movies</rename>
+  </category>
+  <category name="Extras">
+    <enable>true</enable>
+    <rename>Extras</rename>
+  </category>
+  <category name="TV Shows">
+    <enable>true</enable>
+    <rename>TV Shows</rename>
+  </category>
+  <category name="HD">
+    <enable>true</enable>
+    <rename>HD</rename>
+  </category>
+  <category name="HD-720">
+    <enable>true</enable>
+    <rename>HD-720</rename>
+  </category>
+  <category name="HD-1080">
+    <enable>true</enable>
+    <rename>HD-1080</rename>
+  </category>
+  <category name="Top250">
+    <enable>true</enable>
+    <rename>Top250</rename>
+  </category>
+  <category name="Watched">
+    <enable>true</enable>
+    <rename>Watched</rename>
+  </category>
+  <category name="Unwatched">
+    <enable>true</enable>
+    <rename>Unwatched</rename>
+  </category>
+  <category name="Rating">
+    <enable>true</enable>
+    <rename>Rating</rename>
+  </category>
+</categories>

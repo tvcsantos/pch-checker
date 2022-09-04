@@ -1,0 +1,30 @@
+<settings>	
+    <startpage>home</startpage>
+
+    <!-- ******* HOME PAGES -->
+	<menuHOME>home</menuHOME>
+	
+    <!-- ******* INDEX PAGES -->
+	<!-- index tv is the TV Shows and New-TV index -->
+	<indexTV>infobanner2</indexTV>
+	<!-- indexmovie is the Movies and New-Movies index -->
+	<indexMOVIE>infowall</indexMOVIE>
+	<!-- indextvset is a tv show set of seasons -->
+	<indexTVSET>infolistbanner</indexTVSET>
+	<!-- indexmovieset is a boxset of movies -->
+	<indexMOVIESET>infolist</indexMOVIESET>
+	<!-- indexindex is everything else -->
+	<indexINDEX>infowall</indexINDEX>
+	
+	<!-- ********** DETAIL PAGES -->	
+	<!-- details tv is the skin style for tv season -->
+	<detailsTV>tv</detailsTV>
+	<!-- details movie is the skin style for a movie -->
+	<detailsMOVIE>movie2</detailsMOVIE>
+	
+	<homelist>Other,Library</homelist>
+	<menulist>Other,Genres,Title,Library,Year</menulist>	
+	
+	<!-- Movie details certification images to use: mpaa, bbfc, csa or germany -->
+	<certification>mpaa</certification>    
+</settings>
